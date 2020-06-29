@@ -13,3 +13,5 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: December, 2019)
 
 [Publications](https://scholar.google.com/citations?user=45-QOcYAAAAJ)
+
+*Books are the mirros of the soul*(https://www.goodreads.com/user/show/68373123-martin-matak)
