@@ -14,4 +14,4 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 
 [Publications](https://scholar.google.com/citations?user=45-QOcYAAAAJ)
 
-[*Books are the mirros of the soul*](https://www.goodreads.com/user/show/68373123-martin-matak)
+[*Books are the mirros of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
