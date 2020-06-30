@@ -17,8 +17,6 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [*Books are the mirros of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
-[Learning Continuous 3D Reconstructions for Geometrically Aware Grasping](https://sites.google.com/view/reconstruction-grasp/home)
-
-Mark Van der Merwe and Qingkai Lu and Balakumar Sundaralingam and Martin Matak and Tucker Hermans
-
-*IEEE International Conference on Robotics and Automation (ICRA)*
+[Learning Continuous 3D Reconstructions for Geometrically Aware Grasping](https://sites.google.com/view/reconstruction-grasp/home)  
+Mark Van der Merwe and Qingkai Lu and Balakumar Sundaralingam and Martin Matak and Tucker Hermans  
+*IEEE International Conference on Robotics and Automation (ICRA)* 2020
