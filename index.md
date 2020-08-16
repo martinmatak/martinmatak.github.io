@@ -12,7 +12,7 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 
 [Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: December, 2019)
 
-[*Books are the mirros of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
+[*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
 [Learning Continuous 3D Reconstructions for Geometrically Aware Grasping](https://sites.google.com/view/reconstruction-grasp/home) [[PDF]](https://arxiv.org/abs/1910.00983)  
