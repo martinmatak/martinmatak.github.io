@@ -15,6 +15,10 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
+[Comparing Piezoresistive Substrates for Tactile Sensing in Dexterous Hands](https://sites.google.com/gcloud.utah.edu/piezoresistive-tactile-sensing/) [[PDF]](https://arxiv.org/abs/2011.06048)
+Rebecca Miles, Martin Matak, Mohanraj Devendran Shanthi, Darrin Young, Tucker Hermans
+*arxiv*
+
 [Learning Continuous 3D Reconstructions for Geometrically Aware Grasping](https://sites.google.com/view/reconstruction-grasp/home) [[PDF]](https://arxiv.org/abs/1910.00983)  
 Mark Van der Merwe, Qingkai Lu, Balakumar Sundaralingam, Martin Matak, Tucker Hermans  
 *IEEE International Conference on Robotics and Automation (ICRA)* 2020
