@@ -10,7 +10,7 @@ I am a PhD student in the [School of Computing](https://www.cs.utah.edu/) at the
 
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
 
-[Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: December, 2019)
+[Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: September, 2022)
 
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
