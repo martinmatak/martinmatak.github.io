@@ -15,8 +15,8 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
-[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://sites.google.com/view/precision-grasps/home)
-Martin Matak and Tucker Hermans
+[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://sites.google.com/view/precision-grasps/home) <br />
+Martin Matak and Tucker Hermans <br />
 *IEEE Robotics & Automation Letters (RA-L)* 2022.
 
 
