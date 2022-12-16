@@ -15,6 +15,11 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
+[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://sites.google.com/view/precision-grasps/home) [[PDF]](https://sites.google.com/view/precision-grasps/home)
+Martin Matak and Tucker Hermans
+*IEEE Robotics & Automation Letters (RA-L)* 2022.
+
+
 [Comparing Piezoresistive Substrates for Tactile Sensing in Dexterous Hands](https://sites.google.com/gcloud.utah.edu/piezoresistive-tactile-sensing/) [[PDF]](https://arxiv.org/abs/2011.06048)
 Rebecca Miles, Martin Matak, Mohanraj Devendran Shanthi, Darrin Young, Tucker Hermans  
 *arxiv*
