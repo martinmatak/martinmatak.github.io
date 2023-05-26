@@ -5,7 +5,7 @@ subtitle: PhD Student, School of Computing, University of Utah
 use-site-title: true
 permalink: /
 ---
-![Martin Matak]({{ site.url }}/img/martinmatak.png){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:200px;width:200px;display:inline-block;" }
+![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:200px;width:200px;display:inline-block;" }
 I am a PhD student in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I am part of [Utah Learning Lab for Manipulation Autonomy](https://robot-learning.cs.utah.edu/home) and am advised by [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). Focus of my PhD is on multifingered grasping and manipulation of everyday objects.
 
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
