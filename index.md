@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Martin Matak
-subtitle: PhD Student, School of Computing, University of Utah
+subtitle: PhD Student, Kahlert School of Computing, University of Utah
 use-site-title: true
 permalink: /
 ---
