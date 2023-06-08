@@ -15,11 +15,11 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
-23 DoF Grasping Policies from a Raw Point Cloud <br />
+23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/_my_direct_uploads/ICRA_23_WS_23_DoF_Grasping_Policies_from_a_Raw_Point_Cloud.pdf) <br />
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
 
-[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386)[[PDF]](https://arxiv.org/abs/2212.08604) <br />
+[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386) [[PDF]](https://arxiv.org/abs/2212.08604) <br />
 Martin Matak and Tucker Hermans <br />
 *IEEE Robotics & Automation Letters (RA-L)* 2023.
 
