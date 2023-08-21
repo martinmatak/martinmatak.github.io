@@ -19,7 +19,7 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
 
-[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386) [[PDF]](https://arxiv.org/abs/2212.08604) <br />
+[Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386) [[PDF]](https://arxiv.org/abs/2212.08604)[[short video]](https://youtu.be/2uLFzxXw2Os) <br />
 Martin Matak and Tucker Hermans <br />
 *IEEE Robotics & Automation Letters (RA-L)* 2023.
 
