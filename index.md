@@ -10,11 +10,19 @@ I am a PhD student in the [Kahlert School of Computing](https://www.cs.utah.edu/
 
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
 
-[Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: May, 2023)
+[Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: May, 2024)
 
 [*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
 
 ## Publications
+DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics
+Tyler Ga Wei Lum*, Martin Matak*, Viktor Makoviychuk, Ankur Handa, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
+*under submission*
+
+Don’t miss the point! Point-based context enables multimodal, multifingered grasping as regression<br />
+Martin Matak, Karl Van Wyk, Tucker Hermans <br/>
+*under submission*
+
 23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/_my_direct_uploads/ICRA_23_WS_23_DoF_Grasping_Policies_from_a_Raw_Point_Cloud.pdf) <br />
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
