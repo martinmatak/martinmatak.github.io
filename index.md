@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Martin Matak
-subtitle: PhD Student, Kahlert School of Computing, University of Utah
+subtitle: PhD Student @ University of Utah | ex Nvidia, Deloitte
 use-site-title: true
 permalink: /
 ---
@@ -16,7 +16,7 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 
 ## Publications
 DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics
-Tyler Ga Wei Lum*, Martin Matak*, Viktor Makoviychuk, Ankur Handa, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
+Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *under submission*
 
 Don’t miss the point! Point-based context enables multimodal, multifingered grasping as regression<br />
