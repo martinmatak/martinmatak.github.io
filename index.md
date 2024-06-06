@@ -6,17 +6,15 @@ use-site-title: true
 permalink: /
 ---
 ![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:442px;width:381px;display:inline-block;" }
-I am a PhD student in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/). I am part of [Utah Learning Lab for Manipulation Autonomy](https://robot-learning.cs.utah.edu/home) and am advised by [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). Focus of my PhD is on multifingered grasping and manipulation of everyday objects.
+I am a PhD student in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/) where I'm advised by [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). Focus of my PhD is on multifingered grasping and manipulation of everyday objects. Last two years I spent interning at NVIDIA tackling the same problem. 
 
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
 
 [Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: May, 2024)
 
-[*Books are the mirrors of the soul.*](https://www.goodreads.com/user/show/68373123-martin-matak)
-
 ## Publications
 DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics
-Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
+Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *under submission*
 
 Don’t miss the point! Point-based context enables multimodal, multifingered grasping as regression<br />
