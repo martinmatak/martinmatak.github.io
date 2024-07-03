@@ -17,10 +17,6 @@ DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics
 Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *under submission*
 
-Don’t miss the point! Point-based context enables multimodal, multifingered grasping as regression<br />
-Martin Matak, Karl Van Wyk, Tucker Hermans <br/>
-*under submission*
-
 23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/_my_direct_uploads/ICRA_23_WS_23_DoF_Grasping_Policies_from_a_Raw_Point_Cloud.pdf) <br />
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
