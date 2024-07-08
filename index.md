@@ -13,7 +13,7 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 [Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: May, 2024)
 
 ## Publications
-DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics
+[DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
 Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *under submission*
 
