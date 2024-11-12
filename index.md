@@ -14,8 +14,8 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 
 ## Publications
 [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
-Tyler Ga Wei Lum\*, Martin Matak\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
-*under submission*
+Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
+*Conference on Robot Learning (CoRL)* 2024.
 
 23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/_my_direct_uploads/ICRA_23_WS_23_DoF_Grasping_Policies_from_a_Raw_Point_Cloud.pdf) <br />
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
