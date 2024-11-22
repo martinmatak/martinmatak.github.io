@@ -17,7 +17,7 @@ Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs
 Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *Conference on Robot Learning (CoRL)* 2024.
 
-23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://www.mirmi.tum.de/fileadmin/w00byb/mirmi/_my_direct_uploads/ICRA_23_WS_23_DoF_Grasping_Policies_from_a_Raw_Point_Cloud.pdf) <br />
+23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://arxiv.org/abs/2411.14400) <br />
 Martin Matak, Karl Van Wyk, Tucker Hermans <br />
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
 
