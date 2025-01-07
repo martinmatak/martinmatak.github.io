@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Martin Matak
-subtitle: Postdoctoral Researcher @ University of Utah | ex Nvidia, Deloitte
+subtitle: Postdoctoral Researcher @ University of Utah | ex Nvidia
 use-site-title: true
 permalink: /
 ---
@@ -13,7 +13,7 @@ I was advised by Tucker Hermans, and the focus of my PhD was on multifingered gr
 
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
 
-[Curriculum Vitae](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: January, 2025)
+Download my CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: January, 2025)
 
 ## Publications
 [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
