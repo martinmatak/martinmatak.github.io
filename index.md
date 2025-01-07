@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Martin Matak, PhD
+title: Martin Matak
 subtitle: Postdoctoral Researcher @ University of Utah | ex Nvidia, Deloitte
 use-site-title: true
 permalink: /
