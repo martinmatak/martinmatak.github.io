@@ -16,23 +16,27 @@ I was advised by Tucker Hermans, and the focus of my PhD was on multifingered gr
 Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
 
 ## Publications
+[Robust Bayesian Scene Reconstruction with Retrieval-Augmented Priors for Precise Grasping and Planning](https://herb-wright.github.io/brrp/) [[PDF]](https://arxiv.org/abs/2411.19461) <br/>
+Herbert Wright, Weiming Zhi, Martin Matak, Matthew Johnson-Roberson, Tucker Hermans<br/>
+*IEEE Robotics & Automation Letters (RA-L)* 2025.
+
 [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
 Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
 *Conference on Robot Learning (CoRL)* 2024.
 
 23 DoF Grasping Policies from a Raw Point Cloud[[PDF]](https://arxiv.org/abs/2411.14400) <br />
-Martin Matak, Karl Van Wyk, Tucker Hermans <br />
+Martin Matak, Karl Van Wyk, Tucker Hermans<br/>
 *IEEE International Conference on Robotics and Automation (ICRA) Workshop on Geometric Representations* 2023.
 
 [Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386) [[PDF]](https://arxiv.org/abs/2212.08604)[[short video]](https://youtu.be/2uLFzxXw2Os) <br />
-Martin Matak and Tucker Hermans <br />
+Martin Matak and Tucker Hermans<br/>
 *IEEE Robotics & Automation Letters (RA-L)* 2023.
 
 
 [Comparing Piezoresistive Substrates for Tactile Sensing in Dexterous Hands](https://sites.google.com/gcloud.utah.edu/piezoresistive-tactile-sensing/) [[PDF]](https://arxiv.org/abs/2011.06048)
-Rebecca Miles, Martin Matak, Mohanraj Devendran Shanthi, Darrin Young, Tucker Hermans  
+Rebecca Miles, Martin Matak, Mohanraj Devendran Shanthi, Darrin Young, Tucker Hermans<br/>
 *arxiv*
 
 [Learning Continuous 3D Reconstructions for Geometrically Aware Grasping](https://sites.google.com/view/reconstruction-grasp/home) [[PDF]](https://arxiv.org/abs/1910.00983)  
-Mark Van der Merwe, Qingkai Lu, Balakumar Sundaralingam, Martin Matak, Tucker Hermans  
+Mark Van der Merwe, Qingkai Lu, Balakumar Sundaralingam, Martin Matak, Tucker Hermans<br/>
 *IEEE International Conference on Robotics and Automation (ICRA)* 2020
