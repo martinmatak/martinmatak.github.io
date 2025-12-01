@@ -10,10 +10,10 @@ I am a Postdoctoral Researcher in the [Kahlert School of Computing](https://www.
 
 Download my CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: January, 2025)
 
-In December 2024 I got my PhD, also from the University of Utah.
+In December 2024 I got my PhD in Computer Science (CS) from the University of Utah.
 I was advised by Tucker Hermans, and the focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
 
-Previously, I earned my M.Sc. degree in [Logic and Computation](https://logic-cs.at/master/) from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in [Computing](https://www.fer.unizg.hr/en/study_programs/undergraduate_study/computing) from University of Zagreb. 
+Previously, I earned my M.Sc. degree in CS from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in CS from University of Zagreb. 
 
 ## Publications
 [Robust Bayesian Scene Reconstruction with Retrieval-Augmented Priors for Precise Grasping and Planning](https://herb-wright.github.io/brrp/) [[PDF]](https://arxiv.org/abs/2411.19461) <br/>
