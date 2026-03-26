@@ -8,7 +8,7 @@ permalink: /
 ![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:442px;width:381px;display:inline-block;" }
 I am a Postdoctoral Researcher in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/) working with [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). 
 
-Download my CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: January, 2025)
+Download my one page CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: March, 2026)
 
 In December 2024 I got my PhD in Computer Science (CS) from the University of Utah.
 I was advised by Tucker Hermans, and the focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
@@ -18,7 +18,7 @@ Previously, I earned my M.Sc. degree in CS from [TU Wien](https://www.tuwien.at/
 ## Publications
 [Robust Bayesian Scene Reconstruction with Retrieval-Augmented Priors for Precise Grasping and Planning](https://herb-wright.github.io/brrp/) [[PDF]](https://arxiv.org/abs/2411.19461) <br/>
 Herbert Wright, Weiming Zhi, Martin Matak, Matthew Johnson-Roberson, Tucker Hermans<br/>
-*IEEE Robotics & Automation Letters (RA-L)* 2025.
+*IEEE Robotics & Automation Letters (RA-L)* 2026.
 
 [DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
 Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
