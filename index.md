@@ -8,7 +8,7 @@ permalink: /
 ![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:442px;width:381px;display:inline-block;" }
 I am a Postdoctoral Researcher in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/) working with [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). 
 
-Download my one page CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: July, 2026)
+Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: July, 2026)
 
 In December 2024 I got my PhD in Computer Science (CS) from the University of Utah.
 I was advised by Tucker Hermans, and the focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
