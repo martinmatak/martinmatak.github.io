@@ -12,7 +12,7 @@ Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.
 
 In December 2024 I got my PhD in Computer Science (CS) from the University of Utah.
 I was advised by Tucker Hermans, and the focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
-Previously, I earned my M.Sc. degree in CS from [TU Wien](https://www.tuwien.at/en/) where I was advised by [Georg Weissenbacher](http://www.georg.weissenbacher.name/), and a B.Sc. degree in CS from University of Zagreb. 
+Previously, I earned my M.Sc. degree in CS from [TU Wien](https://www.tuwien.at/en/), and a B.Sc. degree in CS from University of Zagreb. 
 
 ## Selected Publications
 [First Plan Then Evaluate: Multi-Target Planning with Post-Planning Success Evaluation Improves Learning-Based Grasping Pipelines](https://martinmatak.github.io/fpte/) [[PDF]](https://arxiv.org/abs/2509.07162) <br/>
