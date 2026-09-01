@@ -6,7 +6,7 @@ use-site-title: true
 permalink: /
 ---
 ![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:442px;width:381px;display:inline-block;" }
-As an AI research engineer at [Industrial Next](https://www.industrialnext.ai/), I work on real-to-sim-to-real dexterous grasping that we deploy in customers' factories. As result, the customers enjoy quick reconfiguration of the robots for a new part / process.
+As an AI research engineer at [Industrial Next](https://www.industrialnext.ai/), I work on real-to-sim-to-real dexterous grasping that we deploy in customers' factories. As a result, our customers can quickly automate a new processes.
 
 Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: September, 2026)
 
