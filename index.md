@@ -1,19 +1,17 @@
 ---
 layout: page
 title: Martin Matak
-subtitle: Postdoctoral Researcher @ University of Utah | ex Nvidia
+subtitle: AI Research Engineer @ Industrial Next
 use-site-title: true
 permalink: /
 ---
 ![Martin Matak]({{ site.url }}/img/me.jpg){:style="float:right;margin:5px;border:2px solid #e7e7e7;height:442px;width:381px;display:inline-block;" }
-I am a Postdoctoral Researcher in the [Kahlert School of Computing](https://www.cs.utah.edu/) at the [University of Utah](https://www.utah.edu/) working with [Tucker Hermans](https://robot-learning.cs.utah.edu/thermans). 
+As an AI research engineer at [Industrial Next](https://www.industrialnext.ai/), I work on real-to-sim-to-real dexterous grasping that we deploy in customers' factories. As result, the customers enjoy quick reconfiguration of the robots for a new part / process.
 
-Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: July, 2026)
+Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: September, 2026)
 
-In December 2024 I got my PhD in Computer Science (CS) from the University of Utah.
-I was advised by Tucker Hermans, and the focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
+I finished my PhD in Computer Science (CS) from the University of Utah in 2024 where I was advised by Tucker Hermans. Tthe focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
 
-Previously, I earned my M.Sc. degree in CS from [TU Wien](https://www.tuwien.at/en/), and a B.Sc. degree in CS from University of Zagreb. 
 
 ## Selected Publications
 [First Plan Then Evaluate: Multi-Target Planning with Post-Planning Success Evaluation Improves Learning-Based Grasping Pipelines](https://martinmatak.github.io/fpte/) [[PDF]](https://arxiv.org/abs/2509.07162) <br/>
