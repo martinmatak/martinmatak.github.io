@@ -10,7 +10,7 @@ As an AI research engineer at [Industrial Next](https://www.industrialnext.ai/),
 
 Download my resume/CV: [here](https://github.com/martinmatak/martinmatak.github.io/raw/master/download/martin_matak-cv.pdf) (Last updated: September, 2026)
 
-I finished my PhD in Computer Science (CS) from the University of Utah in 2024 where I was advised by Tucker Hermans. Tthe focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
+I finished my PhD in Computer Science (CS) from the University of Utah in 2024 where I was advised by Tucker Hermans. The focus of my PhD was on multifingered grasping and manipulation of everyday objects. During my PhD, I spent two years interning at NVIDIA tackling the same problem. 
 
 
 ## Selected Publications
