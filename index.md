@@ -14,13 +14,14 @@ I finished my PhD in Computer Science (CS) from the University of Utah in 2024 w
 
 
 ## Selected Publications
+[DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
+Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
+*Conference on Robot Learning (CoRL)* 2024.
+
 [First Plan Then Evaluate: Multi-Target Planning with Post-Planning Success Evaluation Improves Learning-Based Grasping Pipelines](https://martinmatak.github.io/fpte/) [[PDF]](https://arxiv.org/abs/2509.07162) <br/>
 Martin Matak, Mohanraj Devendran Shanthi, Karl Van Wyk, Tucker Hermans<br/>
 *IEEE Robotics & Automation Letters (RA-L)* 2026.
 
-[DextrAH-G: Pixels-to-Action Dexterous Arm-Hand Grasping with Geometric Fabrics](https://sites.google.com/view/dextrah-g) [[PDF]](https://arxiv.org/abs/2407.02274) <br/>
-Martin Matak\*, Tyler Ga Wei Lum\*, Viktor Makoviychuk, Ankur Handa, Arthur Allshire, Tucker Hermans, Nathan D. Ratliff, Karl Van Wyk<br/>
-*Conference on Robot Learning (CoRL)* 2024.
 
 [Planning Visual-Tactile Precision Grasps via Complementary Use of Vision and Touch](https://ieeexplore.ieee.org/document/9996386) [[PDF]](https://arxiv.org/abs/2212.08604)[[short video]](https://youtu.be/2uLFzxXw2Os) <br />
 Martin Matak and Tucker Hermans<br/>
